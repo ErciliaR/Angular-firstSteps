@@ -1,0 +1,24 @@
+.btn-outline-secondary {
+  border-color: #007A80;
+  background-color: #007A80;
+  color: white;
+  font-size: x-large;
+  text-shadow: none;
+}
+
+.nav-item {
+  font-size: x-large;
+  text-shadow: 2px 2px 4px #000000;
+  color: white;
+  padding-right: 20px;
+}
+
+.dropdown-item {
+  text-shadow: none;
+  color: white;
+}
+
+.dropdown-item:hover {
+    color: #1B3659;
+}
+
