@@ -1,0 +1,32 @@
+header {
+  padding-top: 15%;
+  padding-bottom: 5%;
+  background-image: url("img/fig01.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  margin: 0;
+  height: max-content;
+}
+
+p {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.btn-outline-secondary {
+  border-color: #007A80;
+  background-color: #007A80;
+  color: white;
+  font-size: x-large;
+  text-shadow: none;
+}
+
+.fs-65 {
+    font-size: 65pt;
+    line-height: 100%;
+}
+
+.fs-18 {
+    font-size: 18pt;
+}
